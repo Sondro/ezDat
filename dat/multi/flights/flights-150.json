@@ -1,4 +1,5 @@
 [{"date":"1993/05/12 00:47:22.841","delay":66,"distance":1750,"origin":"DTW","destination":"LAS"},
+{"date":"2005/11/18 01:10:45.400","delay":95,"distance":2399,"origin":"HNL","destination":"SFO"},
 {"date":"2005/11/18 01:10:45.732","delay":95,"distance":2399,"origin":"HNL","destination":"SFO"},
 {"date":"2018/03/22 22:40:12.983","delay":-9,"distance":1188,"origin":"DFW","destination":"ONT"},
 {"date":"2020/07/30 22:47:59.124","delay":58,"distance":2288,"origin":"LAX","destination":"IAD"},

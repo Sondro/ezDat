@@ -8,6 +8,13 @@
     <destination>LAS</destination>
   </flight>
   <flight>
+    <date>2005/11/18 01:10:45.400</date>
+    <delay>95</delay>
+    <distance>2399</distance>
+    <origin>HNL</origin>
+    <destination>SFO</destination>
+  </flight>
+    <flight>
     <date>2005/11/18 01:10:45.732</date>
     <delay>95</delay>
     <distance>2399</distance>
