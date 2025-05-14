@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flights>
+  <flight>
+    <date>1993/05/12 00:47:22.841</date>
+    <delay>66</delay>
+    <distance>1750</distance>
+    <origin>DTW</origin>
+    <destination>LAS</destination>
+  </flight>
+  <flight>
+    <date>2005/11/18 01:10:45.732</date>
+    <delay>95</delay>
+    <distance>2399</distance>
+    <origin>HNL</origin>
+    <destination>SFO</destination>
+  </flight>
+  <flight>
+    <date>2018/03/22 22:40:12.983</date>
+    <delay>-9</delay>
+    <distance>1188</distance>
+    <origin>DFW</origin>
+    <destination>ONT</destination>
+  </flight>
+  <flight>
+    <date>2020/07/30 22:47:59.124</date>
+    <delay>58</delay>
+    <distance>2288</distance>
+    <origin>LAX</origin>
+    <destination>IAD</destination>
+  </flight>
+  <flight>
+    <date>1999/12/15 23:01:37.256</date>
+    <delay>5</delay>
+    <distance>105</distance>
+    <origin>MIA</origin>
+    <destination>RSW</destination>
+  </flight>
+  <flight>
+    <date>2002/09/04 23:15:08.417</date>
+    <delay>-4</delay>
+    <distance>2296</distance>
+    <origin>SFO</origin>
+    <destination>CLT</destination>
+  </flight>
+  <flight>
+    <date>2015/06/11 23:15:33.502</date>
+    <delay>20</delay>
+    <distance>866</distance>
+    <origin>SEA</origin>
+    <destination>LAS</destination>
+  </flight>
+  <flight>
+    <date>2008/01/07 23:19:44.193</date>
+    <delay>20</delay>
+    <distance>1900</distance>
+    <origin>LAX</origin>
+    <destination>CVG</destination>
+  </flight>
+  <flight>
+    <date>1997/04/25 23:43:51.764</date>
+    <delay>69</delay>
+    <distance>369</distance>
+    <origin>PHX</origin>
+    <destination>BUR</destination>
+  </flight>
+  <flight>
+    <date>2003/08/19 00:07:29.875</date>
+    <delay>129</delay>
+    <distance>508</distance>
+    <origin>DTW</origin>
+    <destination>JFK</destination>
+  </flight>
+  <flight>
+    <date>2019/10/31 00:27:16.948</date>
+    <delay>24</delay>
+    <distance>2399</distance>
+    <origin>HNL</origin>
+    <destination>SFO</destination>
+  </flight>
+  <flight>
+    <date>1994/02/14 06:17:42.631</date>
+    <delay>-26</delay>
+    <distance>719</distance>
+    <origin>DCA</origin>
+    <destination>STL</destination>
+  </flight>
+  <flight>
+    <date>2006/12/09 06:20:05.712</date>
+    <delay>6</delay>
+    <distance>129</distance>
+    <origin>SEA</origin>
+    <destination>PDX</destination>
+  </flight>
+  <flight>
+    <date>2011/07/23 06:23:38.823</date>
+    <delay>22</delay>
+    <distance>227</distance>
+    <origin>ATL</origin>
+    <destination>CLT</destination>
+  </flight>
+  <flight>
+    <date>2022/05/03 06:27:19.934</date>
+    <delay>11</delay>
+    <distance>83</distance>
+    <origin>GSO</origin>
+    <destination>CLT</destination>
+  </flight>
+  <flight>
+    <date>2000/04/28 06:29:47.145</date>
+    <delay>-23</delay>
+    <distance>1452</distance>
+    <origin>IAD</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>2016/09/16 06:38:52.256</date>
+    <delay>10</delay>
+    <distance>862</distance>
+    <origin>DEN</origin>
+    <destination>IAH</destination>
+  </flight>
+  <flight>
+    <date>1998/11/21 06:40:33.367</date>
+    <delay>64</delay>
+    <distance>321</distance>
+    <origin>SDF</origin>
+    <destination>ATL</destination>
+  </flight>
+  <flight>
+    <date>2007/03/08 06:42:14.478</date>
+    <delay>-12</delay>
+    <distance>207</distance>
+    <origin>TVC</origin>
+    <destination>DTW</destination>
+  </flight>
+  <flight>
+    <date>2013/08/12 06:45:55.589</date>
+    <delay>3</delay>
+    <distance>809</distance>
+    <origin>COS</origin>
+    <destination>IAH</destination>
+  </flight>
+  <flight>
+    <date>2021/01/25 06:49:36.690</date>
+    <delay>31</delay>
+    <distance>237</distance>
+    <origin>STL</origin>
+    <destination>MCI</destination>
+  </flight>
+  <flight>
+    <date>1995/06/30 06:56:17.791</date>
+    <delay>-15</delay>
+    <distance>927</distance>
+    <origin>CMH</origin>
+    <destination>DFW</destination>
+  </flight>
+  <flight>
+    <date>2009/10/05 06:57:48.892</date>
+    <delay>-9</delay>
+    <distance>316</distance>
+    <origin>CLE</origin>
+    <destination>ORD</destination>
+  </flight>
+  <flight>
+    <date>2014/12/17 07:05:29.913</date>
+    <delay>0</delay>
+    <distance>390</distance>
+    <origin>DEN</origin>
+    <destination>SLC</destination>
+  </flight>
+  <flight>
+    <date>1992/07/20 07:12:10.024</date>
+    <delay>42</delay>
+    <distance>1242</distance>
+    <origin>BOS</origin>
+    <destination>MCO</destination>
+  </flight>
+  <flight>
+    <date>2004/05/02 07:18:51.135</date>
+    <delay>-7</delay>
+    <distance>650</distance>
+    <origin>MDW</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>2017/02/13 07:25:32.246</date>
+    <delay>87</delay>
+    <distance>1988</distance>
+    <origin>EWR</origin>
+    <destination>PHX</destination>
+  </flight>
+  <flight>
+    <date>1996/09/26 07:32:13.357</date>
+    <delay>-11</delay>
+    <distance>334</distance>
+    <origin>IND</origin>
+    <destination>ORD</destination>
+  </flight>
+  <flight>
+    <date>2023/04/07 07:38:54.468</date>
+    <delay>15</delay>
+    <distance>1120</distance>
+    <origin>AUS</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>2001/08/29 07:45:35.579</date>
+    <delay>53</delay>
+    <distance>780</distance>
+    <origin>RDU</origin>
+    <destination>DFW</destination>
+  </flight>
+  <flight>
+    <date>2010/03/11 07:52:16.680</date>
+    <delay>-18</delay>
+    <distance>420</distance>
+    <origin>BNA</origin>
+    <destination>IAH</destination>
+  </flight>
+  <flight>
+    <date>1991/12/24 07:58:57.791</date>
+    <delay>29</delay>
+    <distance>1560</distance>
+    <origin>JFK</origin>
+    <destination>SEA</destination>
+  </flight>
+  <flight>
+    <date>2024/06/05 08:05:38.802</date>
+    <delay>-3</delay>
+    <distance>290</distance>
+    <origin>MKE</origin>
+    <destination>ORD</destination>
+  </flight>
+  <flight>
+    <date>2007/09/14 08:12:19.913</date>
+    <delay>76</delay>
+    <distance>2040</distance>
+    <origin>SLC</origin>
+    <destination>JFK</destination>
+  </flight>
+  <flight>
+    <date>1999/04/18 08:19:00.024</date>
+    <delay>-22</delay>
+    <distance>670</distance>
+    <origin>OMA</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>2015/11/27 08:25:41.135</date>
+    <delay>8</delay>
+    <distance>930</distance>
+    <origin>PDX</origin>
+    <destination>LAX</destination>
+  </flight>
+  <flight>
+    <date>1993/10/09 08:32:22.246</date>
+    <delay>94</delay>
+    <distance>1420</distance>
+    <origin>MEM</origin>
+    <destination>LGA</destination>
+  </flight>
+  <flight>
+    <date>2006/07/22 08:39:03.357</date>
+    <delay>-14</delay>
+    <distance>380</distance>
+    <origin>BOI</origin>
+    <destination>SFO</destination>
+  </flight>
+  <flight>
+    <date>2018/08/03 08:45:44.468</date>
+    <delay>11</delay>
+    <distance>1250</distance>
+    <origin>SAT</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>2000/01/16 08:52:25.579</date>
+    <delay>-9</delay>
+    <distance>540</distance>
+    <origin>PIT</origin>
+    <destination>ORD</destination>
+  </flight>
+  <flight>
+    <date>2012/05/28 08:59:06.680</date>
+    <delay>33</delay>
+    <distance>1870</distance>
+    <origin>TPA</origin>
+    <destination>EWR</destination>
+  </flight>
+  <flight>
+    <date>1997/02/07 09:05:47.791</date>
+    <delay>-27</delay>
+    <distance>620</distance>
+    <origin>MSY</origin>
+    <destination>ATL</destination>
+  </flight>
+  <flight>
+    <date>2020/09/19 09:12:28.802</date>
+    <delay>18</delay>
+    <distance>1540</distance>
+    <origin>ANC</origin>
+    <destination>SEA</destination>
+  </flight>
+  <flight>
+    <date>2004/12/31 09:19:09.913</date>
+    <delay>62</delay>
+    <distance>2100</distance>
+    <origin>HNL</origin>
+    <destination>LAX</destination>
+  </flight>
+  <flight>
+    <date>1995/03/24 09:25:50.024</date>
+    <delay>-5</delay>
+    <distance>430</distance>
+    <origin>OKC</origin>
+    <destination>DFW</destination>
+  </flight>
+  <flight>
+    <date>2009/06/15 09:32:31.135</date>
+    <delay>47</delay>
+    <distance>1760</distance>
+    <origin>SJU</origin>
+    <destination>MIA</destination>
+  </flight>
+  <flight>
+    <date>2013/01/26 09:39:12.246</date>
+    <delay>-19</delay>
+    <distance>890</distance>
+    <origin>TUL</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>1991/08/08 09:45:53.357</date>
+    <delay>24</delay>
+    <distance>1320</distance>
+    <origin>BWI</origin>
+    <destination>MCO</destination>
+  </flight>
+  <flight>
+    <date>2022/07/10 09:52:34.468</date>
+    <delay>-8</delay>
+    <distance>370</distance>
+    <origin>RIC</origin>
+    <destination>ATL</destination>
+  </flight>
+  <flight>
+    <date>2002/04/01 09:59:15.579</date>
+    <delay>81</delay>
+    <distance>1980</distance>
+    <origin>SAN</origin>
+    <destination>ORD</destination>
+  </flight>
+  <flight>
+    <date>2016/10/12 10:05:56.680</date>
+    <delay>12</delay>
+    <distance>1050</distance>
+    <origin>SMF</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>1998/05/25 10:12:37.791</date>
+    <delay>-31</delay>
+    <distance>680</distance>
+    <origin>PWM</origin>
+    <destination>JFK</destination>
+  </flight>
+  <flight>
+    <date>2005/02/06 10:19:18.802</date>
+    <delay>55</delay>
+    <distance>1430</distance>
+    <origin>MCI</origin>
+    <destination>PHX</destination>
+  </flight>
+  <flight>
+    <date>2019/11/17 10:25:59.913</date>
+    <delay>-13</delay>
+    <distance>920</distance>
+    <origin>GRR</origin>
+    <destination>ORD</destination>
+  </flight>
+  <flight>
+    <date>1994/06/28 10:32:40.024</date>
+    <delay>38</delay>
+    <distance>1670</distance>
+    <origin>RSW</origin>
+    <destination>BOS</destination>
+  </flight>
+  <flight>
+    <date>2008/03/09 10:39:21.135</date>
+    <delay>-21</delay>
+    <distance>510</distance>
+    <origin>BUF</origin>
+    <destination>EWR</destination>
+  </flight>
+  <flight>
+    <date>2011/12/20 10:46:02.246</date>
+    <delay>9</delay>
+    <distance>1280</distance>
+    <origin>ORF</origin>
+    <destination>ATL</destination>
+  </flight>
+  <flight>
+    <date>1996/01/31 10:52:43.357</date>
+    <delay>67</delay>
+    <distance>2010</distance>
+    <origin>PHL</origin>
+    <destination>DFW</destination>
+  </flight>
+  <flight>
+    <date>2021/04/13 10:59:24.468</date>
+    <delay>-17</delay>
+    <distance>740</distance>
+    <origin>SYR</origin>
+    <destination>ORD</destination>
+  </flight>
+  <flight>
+    <date>2003/07/04 11:06:05.579</date>
+    <delay>26</delay>
+    <distance>1530</distance>
+    <origin>BDL</origin>
+    <destination>MCO</destination>
+  </flight>
+  <flight>
+    <date>2017/08/15 11:12:46.680</date>
+    <delay>-4</delay>
+    <distance>450</distance>
+    <origin>ROC</origin>
+    <destination>JFK</destination>
+  </flight>
+  <flight>
+    <date>1999/09/26 11:19:27.791</date>
+    <delay>73</delay>
+    <distance>1820</distance>
+    <origin>SNA</origin>
+    <destination>ORD</destination>
+  </flight>
+  <flight>
+    <date>2006/04/07 11:26:08.802</date>
+    <delay>14</delay>
+    <distance>1120</distance>
+    <origin>PVD</origin>
+    <destination>BWI</destination>
+  </flight>
+  <flight>
+    <date>2014/05/18 11:32:49.913</date>
+    <delay>-25</delay>
+    <distance>630</distance>
+    <origin>DAY</origin>
+    <destination>ATL</destination>
+  </flight>
+  <flight>
+    <date>1992/12/29 11:39:30.024</date>
+    <delay>49</delay>
+    <distance>1760</distance>
+    <origin>MHT</origin>
+    <destination>MCO</destination>
+  </flight>
+  <flight>
+    <date>2020/01/10 11:46:11.135</date>
+    <delay>-10</delay>
+    <distance>850</distance>
+    <origin>GSP</origin>
+    <destination>ORD</destination>
+  </flight>
+  <flight>
+    <date>2001/06/21 11:52:52.246</date>
+    <delay>31</delay>
+    <distance>1420</distance>
+    <origin>CHS</origin>
+    <destination>DFW</destination>
+  </flight>
+  <flight>
+    <date>2015/03/02 11:59:33.357</date>
+    <delay>-6</delay>
+    <distance>520</distance>
+    <origin>PBI</origin>
+    <destination>ATL</destination>
+  </flight>
+  <flight>
+    <date>1997/10/13 12:06:14.468</date>
+    <delay>88</delay>
+    <distance>2030</distance>
+    <origin>FLL</origin>
+    <destination>EWR</destination>
+  </flight>
+  <flight>
+    <date>2009/05/24 12:12:55.579</date>
+    <delay>17</delay>
+    <distance>1180</distance>
+    <origin>BHM</origin>
+    <destination>DFW</destination>
+  </flight>
+  <flight>
+    <date>2012/08/05 12:19:36.680</date>
+    <delay>-28</delay>
+    <distance>710</distance>
+    <origin>ICT</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>1993/07/16 12:26:17.791</date>
+    <delay>42</delay>
+    <distance>1630</distance>
+    <origin>JAX</origin>
+    <destination>ORD</destination>
+  </flight>
+  <flight>
+    <date>2023/02/27 12:32:58.802</date>
+    <delay>-15</delay>
+    <distance>590</distance>
+    <origin>ALB</origin>
+    <destination>JFK</destination>
+  </flight>
+  <flight>
+    <date>2004/11/08 12:39:39.913</date>
+    <delay>64</delay>
+    <distance>1870</distance>
+    <origin>MSN</origin>
+    <destination>DFW</destination>
+  </flight>
+  <flight>
+    <date>1995/08/19 12:46:20.024</date>
+    <delay>-7</delay>
+    <distance>930</distance>
+    <origin>GRB</origin>
+    <destination>ORD</destination>
+  </flight>
+  <flight>
+    <date>2018/01/30 12:53:01.135</date>
+    <delay>23</delay>
+    <distance>1520</distance>
+    <origin>SAV</origin>
+    <destination>ATL</destination>
+  </flight>
+  <flight>
+    <date>2000/10/11 12:59:42.246</date>
+    <delay>-19</delay>
+    <distance>680</distance>
+    <origin>PNS</origin>
+    <destination>IAH</destination>
+  </flight>
+  <flight>
+    <date>2013/04/22 13:06:23.357</date>
+    <delay>51</delay>
+    <distance>1780</distance>
+    <origin>LIT</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>1991/09/03 13:13:04.468</date>
+    <delay>12</delay>
+    <distance>1250</distance>
+    <origin>AMA</origin>
+    <destination>DFW</destination>
+  </flight>
+  <flight>
+    <date>2021/12/14 13:19:45.579</date>
+    <delay>-33</delay>
+    <distance>570</distance>
+    <origin>BTR</origin>
+    <destination>ATL</destination>
+  </flight>
+  <flight>
+    <date>2002/07/25 13:26:26.680</date>
+    <delay>79</delay>
+    <distance>1940</distance>
+    <origin>ELP</origin>
+    <destination>ORD</destination>
+  </flight>
+  <flight>
+    <date>2016/02/06 13:33:07.791</date>
+    <delay>-8</delay>
+    <distance>890</distance>
+    <origin>CRP</origin>
+    <destination>DFW</destination>
+  </flight>
+  <flight>
+    <date>1998/03/17 13:39:48.802</date>
+    <delay>28</delay>
+    <distance>1430</distance>
+    <origin>MAF</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>2005/10/28 13:46:29.913</date>
+    <delay>-16</delay>
+    <distance>720</distance>
+    <origin>ABQ</origin>
+    <destination>PHX</destination>
+  </flight>
+  <flight>
+    <date>2019/05/09 13:53:10.024</date>
+    <delay>45</delay>
+    <distance>1680</distance>
+    <origin>TUS</origin>
+    <destination>ORD</destination>
+  </flight>
+  <flight>
+    <date>1994/04/20 13:59:51.135</date>
+    <delay>-22</delay>
+    <distance>610</distance>
+    <origin>LBB</origin>
+    <destination>DFW</destination>
+  </flight>
+  <flight>
+    <date>2007/09/01 14:06:32.246</date>
+    <delay>63</delay>
+    <distance>1820</distance>
+    <origin>BZN</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>2011/02/12 14:13:13.357</date>
+    <delay>9</delay>
+    <distance>1320</distance>
+    <origin>FAR</origin>
+    <destination>ORD</destination>
+  </flight>
+  <flight>
+    <date>1996/11/23 14:19:54.468</date>
+    <delay>-29</delay>
+    <distance>750</distance>
+    <origin>GFK</origin>
+    <destination>MSP</destination>
+  </flight>
+  <flight>
+    <date>2022/08/04 14:26:35.579</date>
+    <delay>37</delay>
+    <distance>1570</distance>
+    <origin>FSD</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>2003/01/15 14:33:16.680</date>
+    <delay>-11</delay>
+    <distance>920</distance>
+    <origin>RAP</origin>
+    <destination>SLC</destination>
+  </flight>
+  <flight>
+    <date>2017/06/26 14:39:57.791</date>
+    <delay>54</delay>
+    <distance>1760</distance>
+    <origin>GJT</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>1999/07/07 14:46:38.802</date>
+    <delay>-5</delay>
+    <distance>640</distance>
+    <origin>CID</origin>
+    <destination>ORD</destination>
+  </flight>
+  <flight>
+    <date>2006/12/18 14:53:19.913</date>
+    <delay>82</delay>
+    <distance>1980</distance>
+    <origin>MLI</origin>
+    <destination>DFW</destination>
+  </flight>
+  <flight>
+    <date>2014/09/29 15:00:00.024</date>
+    <delay>19</delay>
+    <distance>1420</distance>
+    <origin>XNA</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>1992/10/10 15:06:41.135</date>
+    <delay>-24</delay>
+    <distance>730</distance>
+    <origin>SHV</origin>
+    <destination>IAH</destination>
+  </flight>
+  <flight>
+    <date>2020/03/21 15:13:22.246</date>
+    <delay>48</delay>
+    <distance>1690</distance>
+    <origin>BIS</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>2001/04/02 15:20:03.357</date>
+    <delay>-9</delay>
+    <distance>880</distance>
+    <origin>CPR</origin>
+    <destination>SLC</destination>
+  </flight>
+  <flight>
+    <date>2015/11/13 15:26:44.468</date>
+    <delay>66</delay>
+    <distance>1870</distance>
+    <origin>RNO</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>1997/08/24 15:33:25.579</date>
+    <delay>13</delay>
+    <distance>1320</distance>
+    <origin>EUG</origin>
+    <destination>SFO</destination>
+  </flight>
+  <flight>
+    <date>2009/01/05 15:40:06.680</date>
+    <delay>-27</delay>
+    <distance>690</distance>
+    <origin>SBA</origin>
+    <destination>LAX</destination>
+  </flight>
+  <flight>
+    <date>2012/06/16 15:46:47.791</date>
+    <delay>41</delay>
+    <distance>1620</distance>
+    <origin>ACV</origin>
+    <destination>SFO</destination>
+  </flight>
+  <flight>
+    <date>1993/09/27 15:53:28.802</date>
+    <delay>-14</delay>
+    <distance>820</distance>
+    <origin>MRY</origin>
+    <destination>LAX</destination>
+  </flight>
+  <flight>
+    <date>2023/04/08 16:00:09.913</date>
+    <delay>75</delay>
+    <distance>1940</distance>
+    <origin>PSP</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>2004/07/19 16:06:50.024</date>
+    <delay>-2</delay>
+    <distance>1050</distance>
+    <origin>SBP</origin>
+    <destination>PHX</destination>
+  </flight>
+  <flight>
+    <date>1995/12/30 16:13:31.135</date>
+    <delay>59</delay>
+    <distance>1780</distance>
+    <origin>SCE</origin>
+    <destination>ORD</destination>
+  </flight>
+  <flight>
+    <date>2018/05/11 16:20:12.246</date>
+    <delay>-18</delay>
+    <distance>760</distance>
+    <origin>CEC</origin>
+    <destination>SFO</destination>
+  </flight>
+  <flight>
+    <date>2000/02/22 16:26:53.357</date>
+    <delay>34</delay>
+    <distance>1530</distance>
+    <origin>RDD</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>2013/07/03 16:33:34.468</date>
+    <delay>-7</delay>
+    <distance>910</distance>
+    <origin>OTH</origin>
+    <destination>SFO</destination>
+  </flight>
+  <flight>
+    <date>1991/06/14 16:40:15.579</date>
+    <delay>83</delay>
+    <distance>1970</distance>
+    <origin>EKO</origin>
+    <destination>SLC</destination>
+  </flight>
+  <flight>
+    <date>2021/09/25 16:46:56.680</date>
+    <delay>21</delay>
+    <distance>1420</distance>
+    <origin>PIH</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>2002/10/06 16:53:37.791</date>
+    <delay>-30</delay>
+    <distance>650</distance>
+    <origin>SGU</origin>
+    <destination>SLC</destination>
+  </flight>
+  <flight>
+    <date>2016/03/17 17:00:18.802</date>
+    <delay>52</delay>
+    <distance>1730</distance>
+    <origin>TWF</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>1998/12/28 17:06:59.913</date>
+    <delay>-12</delay>
+    <distance>840</distance>
+    <origin>BTM</origin>
+    <destination>SLC</destination>
+  </flight>
+  <flight>
+    <date>2005/05/09 17:13:40.024</date>
+    <delay>47</delay>
+    <distance>1680</distance>
+    <origin>IDA</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>2019/10/20 17:20:21.135</date>
+    <delay>-23</delay>
+    <distance>720</distance>
+    <origin>JAC</origin>
+    <destination>SLC</destination>
+  </flight>
+  <flight>
+    <date>1994/01/31 17:27:02.246</date>
+    <delay>68</delay>
+    <distance>1860</distance>
+    <origin>SUN</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>2007/08/12 17:33:43.357</date>
+    <delay>15</delay>
+    <distance>1330</distance>
+    <origin>VEL</origin>
+    <destination>SLC</destination>
+  </flight>
+  <flight>
+    <date>2011/03/23 17:40:24.468</date>
+    <delay>-26</delay>
+    <distance>780</distance>
+    <origin>CNY</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>1996/04/04 17:47:05.579</date>
+    <delay>39</delay>
+    <distance>1620</distance>
+    <origin>CDC</origin>
+    <destination>SLC</destination>
+  </flight>
+  <flight>
+    <date>2022/11/15 17:53:46.680</date>
+    <delay>-8</delay>
+    <distance>930</distance>
+    <origin>PUC</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>2003/06/26 18:00:27.791</date>
+    <delay>74</delay>
+    <distance>1930</distance>
+    <origin>PGD</origin>
+    <destination>ATL</destination>
+  </flight>
+  <flight>
+    <date>2017/09/07 18:07:08.802</date>
+    <delay>-4</delay>
+    <distance>1040</distance>
+    <origin>FNT</origin>
+    <destination>ORD</destination>
+  </flight>
+  <flight>
+    <date>1999/10/18 18:13:49.913</date>
+    <delay>57</delay>
+    <distance>1770</distance>
+    <origin>LAN</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>2006/01/29 18:20:30.024</date>
+    <delay>-17</delay>
+    <distance>860</distance>
+    <origin>MKG</origin>
+    <destination>ORD</destination>
+  </flight>
+  <flight>
+    <date>2014/06/10 18:27:11.135</date>
+    <delay>32</delay>
+    <distance>1520</distance>
+    <origin>AZO</origin>
+    <destination>ATL</destination>
+  </flight>
+  <flight>
+    <date>1992/03/21 18:33:52.246</date>
+    <delay>-21</delay>
+    <distance>710</distance>
+    <origin>TOL</origin>
+    <destination>ORD</destination>
+  </flight>
+  <flight>
+    <date>2020/12/02 18:40:33.357</date>
+    <delay>46</delay>
+    <distance>1670</distance>
+    <origin>FWA</origin>
+    <destination>DEN</destination>
+  </flight>
+  <flight>
+    <date>2001/09/13 18:47:14.468</date>
+    <delay>-10</delay>
+    <distance>950</distance>
+    <origin>SBN</origin>
+    <destination>ORD</destination>
+  </flight>
+  <flight>
+    <date>2015/04/24 18:53:55.579</date>
+    <delay>65</delay>
+    <distance>1850</distance>
+    <origin>ATW</origin>
+    <destination>DEN</destination>
+  </flight>
